@@ -17,5 +17,8 @@ comments: false
 
 ![smile]({{site.images}}{{page.name}}smile.png)
 
-![smile]({{site.images}}{{page.name}}smile.png){:width=100px}
+![smile]({{site.images}}{{page.name}}smile.png){:width="400px"}
 
+$$e^{x_1^2} + 2 = 0$$
+
+$$e^{i \pi} + 1 = 0$$
