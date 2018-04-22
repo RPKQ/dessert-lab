@@ -17,3 +17,5 @@ comments: false
 
 ![smile]({{site.images}}{{page.name}}smile.png)
 
+![smile]({{site.images}}{{page.name}}smile.png){:width=100px}
+
