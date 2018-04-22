@@ -39,9 +39,9 @@ sidebar_home_link:  true
 github:
   repo: https://github.com/rpkq/dessert-lab
 facebook: https://www.facebook.com/dessertLabb
-google_analytics: 
+google_analytics: UA-117092449-3
 disqus:
-  shortname: 
+  shortname: dessert-lab
 paginate: 5
 images: "https://raw.githubusercontent.com/rpkq/dessert-lab/master/assets/images/"
 
