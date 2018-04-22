@@ -20,7 +20,7 @@ description: "甜點實驗室" #>- # this means to ignore newlines until "baseur
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 baseurl: "/dessert-lab" # the subpath of your site, e.g. /blog
-url: "https://j3soon.github.io/dessert-lab" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rpkq.github.io/dessert-lab" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: ""
 
@@ -37,13 +37,13 @@ plugins:
 # Custom settings
 sidebar_home_link:  true
 github:
-  repo: https://github.com/j3soon/dessert-lab
+  repo: https://github.com/rpkq/dessert-lab
 facebook: https://www.facebook.com/dessertLabb
 google_analytics: 
 disqus:
   shortname: 
 paginate: 5
-images: "https://raw.githubusercontent.com/j3soon/dessert-lab/master/assets/images/"
+images: "https://raw.githubusercontent.com/rpkq/dessert-lab/master/assets/images/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
