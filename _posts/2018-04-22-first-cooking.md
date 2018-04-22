@@ -15,5 +15,5 @@ comments: false
 
 ## 副標題
 
-![smile]({{site.images}}{{post.name}}smile.png)
+![smile]({{site.images}}{{page.name}}smile.png)
 
